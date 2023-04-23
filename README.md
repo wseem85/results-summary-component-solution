@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/wseem85/results-summary-component-solution)
+- Solution URL: [https://github.com/wseem85/results-summary-component-solution]
 
 ## My process
 
